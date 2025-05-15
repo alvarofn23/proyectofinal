@@ -39,13 +39,35 @@ Vamos a proceder con el EDA para entender mejor los datos de Vestiaire:
 ![image](https://github.com/user-attachments/assets/d7a9f08a-5f4c-4477-a083-11feb3ed82ad)
 ![image](https://github.com/user-attachments/assets/3c5a0853-52e2-498a-a7bf-aa3e3548ff3d)
 ![image](https://github.com/user-attachments/assets/17db4335-3798-46ab-bac8-46c317c013e7)
+Resumen General
+Total de productos analizados: 12,719
 
+Cantidad de marcas distintas: 19
+
+Marca más frecuente: Gucci
+
+Categoría más común: Women Shoes
+
+Condición más común: Very good condition
+
+Precio promedio (USD): 283.93 $
+
+Ganancia media del vendedor: 208.06 $
+
+Promedio de "likes" por producto: 19.84
 
 Productos vendidos:
 
 ![image](https://github.com/user-attachments/assets/b4b6da41-aadb-4f5b-b83a-4e87e801fe49)
 ![image](https://github.com/user-attachments/assets/ac923729-2d53-4480-98ae-fce40265541e)
 ![image](https://github.com/user-attachments/assets/62095838-1d5c-4633-9e95-520b10a51a10)
+
+*(añadir capturas de orange y powerbi)*
+
+
+* TABLA DE LOS USUARIOS CON MAYORES INGRESOS DE LA APLICACION.
+* potencial para incluir una Categoria de Vendedor Pro y asi incentivar las ventas a la vez que ganas dinero con la cuota de la suscripcion
+![image](https://github.com/user-attachments/assets/1f086460-6506-4f89-bce3-044ce022215a)
 
 
 
