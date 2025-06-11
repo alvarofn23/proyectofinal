@@ -1,4 +1,4 @@
-# MACHINE LEARNING APLICADO A LA PREDICCIÓN DE PRECIOS DE ARTÍCULOS DE LUJO
+# 👕MACHINE LEARNING APLICADO A LA PREDICCIÓN DE PRECIOS DE ARTÍCULOS DE LUJO
 ***
 
 Este repositorio contiene un análisis de los articulos que se venden en plataformas de reventa (Vinted y Vestiaire) y la prediccion de sus precios, constando de las siguientes fases:
@@ -12,6 +12,6 @@ Se utilizan diversas herramientas y tecnologías, destacando el uso extensivo de
 
 
 
-# Estructura del repositorio
+# 📂Estructura del repositorio
 ---
 
