@@ -12,6 +12,6 @@ Se utilizan diversas herramientas y tecnologías, destacando el uso extensivo de
 
 
 
-#Estructura del Repositorio
+# Estructura del repositorio
 ---
 
