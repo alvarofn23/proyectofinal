@@ -139,7 +139,6 @@ El flujo de trabajo general del proyecto se puede resumir en los siguientes paso
 
 8. Documentación: Documentación del proyecto en Proyectofinal_memoria.pdf y README.md.
 
----
 
 # 🤝 Contribución
 ---
