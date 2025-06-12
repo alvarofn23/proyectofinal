@@ -145,10 +145,15 @@ El flujo de trabajo general del proyecto se puede resumir en los siguientes paso
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor, sigue estos pasos:
 
 Haz un fork del repositorio.
+
 Crea una rama para tu contribución (git checkout -b mi-contribucion).
+
 Realiza tus cambios.
+
 Haz commit de tus cambios (git commit -m "Añade una nueva característica").
+
 Sube tus cambios a tu fork (git push origin mi-contribucion).
+
 Crea un pull request.
 
 # 📄 Licencia
