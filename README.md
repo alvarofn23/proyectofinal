@@ -14,4 +14,19 @@ Se utilizan diversas herramientas y tecnologías, destacando el uso extensivo de
 
 # 📂Estructura del repositorio
 ---
-
+├── Aplicativos/
+│   ├── PROYECTO.pbix
+│   ├── proyecto final.ows
+├── Datos/
+│   ├── Filtered_Vestiaire_.csv
+│   ├── Vinted Scraper b.csv
+│   ├── Vinted_Investment_Categorization (2).csv
+│   ├── Vinted_Price_Estimates_with_MLP.csv
+│   ├── Vinted_Scraper_adapted (2).csv
+├── Scripts/
+│   ├── comparacion-de-modelos y categorizacion.ipynb
+│   ├── extraer-precios-vinted.ipynb
+│   ├── proyecto-final-eda.ipynb
+│   └── proyecto-final-modelo.ipynb
+├── Proyectofinal_memoria.pdf
+└── README.md
