@@ -59,7 +59,7 @@ Este repositorio contiene un análisis de los articulos que se venden en platafo
    - proyecto-final-eda.ipynb: script con el EDA y algunas visualizaciones de python
      
    - proyecto-final-modelo.ipynb: script con el modelo de regresion para los articulos de Vestiaire
-   - 
+     
      1. Filtrado y preparacion de datos
         
         ![image](https://github.com/user-attachments/assets/ce5f37f3-a521-49b2-8c17-7d0d1e99f816)
