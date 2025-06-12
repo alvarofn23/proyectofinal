@@ -14,6 +14,7 @@ Se utilizan diversas herramientas y tecnologías, destacando el uso extensivo de
 
 # 📂Estructura del repositorio
 ---
+```
 ├── Aplicativos/
 │   ├── PROYECTO.pbix
 │   ├── proyecto final.ows
@@ -30,3 +31,4 @@ Se utilizan diversas herramientas y tecnologías, destacando el uso extensivo de
 │   └── proyecto-final-modelo.ipynb
 ├── Proyectofinal_memoria.pdf
 └── README.md
+```
