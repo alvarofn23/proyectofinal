@@ -129,7 +129,7 @@ El flujo de trabajo general del proyecto se puede resumir en los siguientes paso
    
 3. Análisis Exploratorio de Datos (EDA): Realización de un EDA para comprender las características de los datos utilizando Scripts/proyecto-final-eda.ipynb.
    
-4. Preprocesamiento de Datos: Limpieza y transformación de los datos utilizando Scripts/3.PreProcesamiento.ipynb.
+4. Preprocesamiento de Datos: Limpieza y transformación de los datos
    
 5. Modelado, construcción y entrenamiento del modelo utilizando Scripts/proyecto-final-modelo.ipynb
 
