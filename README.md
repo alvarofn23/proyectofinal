@@ -118,7 +118,28 @@ Este repositorio contiene un análisis de los articulos que se venden en platafo
           
           ---
 
+# 📈 Flujo de Trabajo del Proyecto
+---
 
+El flujo de trabajo general del proyecto se puede resumir en los siguientes pasos:
+
+1. Adquisición de Datos: Obtención de datos de Vinted y Vestiaire
+   
+2. Incorporación de Datos: Extraccion, integración y adaptacion de nuevos datos con los datos existentes utilizando Scripts/extraer-precios-vinted.ipynb.
+   
+3. Análisis Exploratorio de Datos (EDA): Realización de un EDA para comprender las características de los datos utilizando Scripts/proyecto-final-eda.ipynb.
+   
+4. Preprocesamiento de Datos: Limpieza y transformación de los datos utilizando Scripts/3.PreProcesamiento.ipynb.
+   
+5. Modelado, construcción y entrenamiento del modelo utilizando Scripts/proyecto-final-modelo.ipynb
+
+6. Comparacion de modelos, busqueda del mejor prediccion final y categorizacion de las inversiones Scripts/comparacion-de-modelos y categorizacion.ipynb.
+
+7. Visualización: Creación de visualizaciones para comunicar los resultados del proyecto utilizando tabmien Scripts/comparacion-de-modelos y categorizacion.ipynb. y Power BI.
+
+8. Documentación: Documentación del proyecto en Proyectofinal_memoria.pdf y README.md.
+
+---
 
 
         
