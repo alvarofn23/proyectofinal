@@ -119,7 +119,7 @@ Este repositorio contiene un análisis de los articulos que se venden en platafo
           ---
 
 # 📈 Flujo de Trabajo del Proyecto
----
+
 
 El flujo de trabajo general del proyecto se puede resumir en los siguientes pasos:
 
