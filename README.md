@@ -88,6 +88,42 @@ Este repositorio contiene un análisis de los articulos que se venden en platafo
         ![image](https://github.com/user-attachments/assets/e8ee334b-8edd-4f5a-88a1-5594fbf6596f)
         ![image](https://github.com/user-attachments/assets/7df28d9c-89e6-4db4-beef-8d215bf950e0)
 
+   - extraer-precios-vinted.ipynb: script que extrae los precios de la columna product_name filtra, traduce y adapta la estructura a la del dataset de Vestiaire
+
+     1. Extraccion del precio
+        
+        ![image](https://github.com/user-attachments/assets/fe8d200a-2abf-4d95-a556-5424c7a6a71a)
+  
+        ---
+
+     2. Filtrado, traduccion y adaptacion del dataset
+    
+        ![image](https://github.com/user-attachments/assets/78cf91a8-86ab-4097-a073-615a87cf8bf8)
+        ![image](https://github.com/user-attachments/assets/c05fdd95-5434-45d8-8624-1c925480730f)
+
+        ---
+
+     - comparacion-de-modelos y categorizacion.ipynb: el script mas importante, evalua y compara los demas modelos, da con el mejor, predice los precios de Vinted y categoriza la inversion
+
+       1. Evaluacion de modelos y prediccion
+          
+          ![image](https://github.com/user-attachments/assets/4a94390f-e680-41dc-986f-3745968353ec)
+          ![image](https://github.com/user-attachments/assets/47e0cda0-b0d1-4abf-a578-703f2f431722)
+
+          ---
+
+       2. Categorizacion de la inversion
+
+          ![image](https://github.com/user-attachments/assets/7958c6a0-4772-4670-b581-1251aad63f43)
+          
+          ---
+
+
+
+
+        
+
+
 
 
 
