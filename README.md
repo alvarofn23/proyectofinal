@@ -62,19 +62,23 @@ Este repositorio contiene un análisis de los articulos que se venden en platafo
      1. Filtrado y preparacion de datos
         ![image](https://github.com/user-attachments/assets/ce5f37f3-a521-49b2-8c17-7d0d1e99f816)
         ![image](https://github.com/user-attachments/assets/7c695c7e-6ca3-4ea1-8c7b-a8f540576e2c)
+  
+        ---
         
-     2. Separacion en entrenamiento y prueba
+     3. Separacion en entrenamiento y prueba
         ![image](https://github.com/user-attachments/assets/d93d9a6d-dd0e-44ae-aaec-d262dcd47357)
         ![image](https://github.com/user-attachments/assets/bbb0ed42-d969-4063-b5f3-d8d0d4b73bc6)
         ![image](https://github.com/user-attachments/assets/0a8e0bc7-7c39-482b-bfad-2fc14fc7630e)
         ![image](https://github.com/user-attachments/assets/cd1a2a00-3fe8-4a13-9e7d-73fca2dcce96)
-        
-     3. Modelo Lightgbm
+  
+        ---
+     4. Modelo Lightgbm
         ![image](https://github.com/user-attachments/assets/9b533710-fe3f-4bdc-80dd-a965a652d9bd)
         ![image](https://github.com/user-attachments/assets/85f683da-ab91-4a84-ac06-2e5f5072981c)
         ![image](https://github.com/user-attachments/assets/64df2981-d5a7-4834-8423-7305a0ba1ccd)
-        
-     4. Comprobacion y visualizacion
+  
+        ---
+     5. Comprobacion y visualizacion
         ![image](https://github.com/user-attachments/assets/93b7a120-5f55-4504-86a4-91159da02a7a)
         ![image](https://github.com/user-attachments/assets/e8ee334b-8edd-4f5a-88a1-5594fbf6596f)
         ![image](https://github.com/user-attachments/assets/7df28d9c-89e6-4db4-beef-8d215bf950e0)
