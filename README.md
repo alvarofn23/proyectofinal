@@ -141,7 +141,7 @@ El flujo de trabajo general del proyecto se puede resumir en los siguientes paso
 
 
 # 🤝 Contribución
----
+
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor, sigue estos pasos:
 
 Haz un fork del repositorio.
@@ -152,11 +152,11 @@ Sube tus cambios a tu fork (git push origin mi-contribucion).
 Crea un pull request.
 
 # 📄 Licencia
----
+
 Este proyecto está licenciado bajo la licencia MIT.
 
 # 📧 Contacto
----
+
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de alvarofn23@gmail.com.
 
 
